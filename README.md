@@ -8,16 +8,8 @@ It demonstrates:
 - Supervised learning (classification & regression)
 - Unsupervised learning (clustering with K-Means + PCA visualization)
 - Model evaluation with accuracy, confusion matrix, and feature importance
-
-## Project Structure
-
-wine-quality-ml/
-│── README.md          <- Project description (this file)
-│── requirements.txt   <- Python dependencies
-│── wine_quality.ipynb <- Main Jupyter notebook (EDA + ML pipeline)
-│── figures/           <- Saved plots (EDA, confusion matrix, PCA, etc.)
-
-## Getting Started
+- 
+## How to setup
 
 ### 1. Clone Repository
 git clone https://github.com/<your-username>/wine-quality-ml.git
